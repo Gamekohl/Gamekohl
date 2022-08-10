@@ -3,6 +3,7 @@
 <h3 align="center">Wholehearted Software Engineer from Germany</h3>
 
 ## 💬 ?
+- JavaScript/TypeScript
 - Frontend development (React, Angular)
 - Backend development (Express, NestJS)
 - Interested in DevOps topics
