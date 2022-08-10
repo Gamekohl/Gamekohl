@@ -1,4 +1,4 @@
-<h1 align="center">Gamekohl / Julian</h1>
+<h1 align="center">👋 Gamekohl / Julian 👋</h1>
 
 <h3 align="center">Wholehearted Software Engineer from Germany</h3>
 
