@@ -4,8 +4,8 @@
 
 ## 💬 ?
 - JavaScript/TypeScript
-- Frontend development (React, Angular)
-- Backend development (Express, NestJS)
+- Frontend development (React, Angular, ...)
+- Backend development (Express, NestJS, ...)
 - Interested in DevOps topics
 - Always curious to try out new frameworks, technologies, etc.
 
