@@ -16,10 +16,6 @@
 - Playing videogames
 - Playing guitar (maybe my favorite activity)
 
-## 🌱 Currently learning...
-- Prisma
-- CI/CD
-
 <!--
 **Gamekohl/gamekohl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
