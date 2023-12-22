@@ -2,12 +2,17 @@
 
 <h3 align="center">Wholehearted Software Engineer from Germany</h3>
 
-## 💬 ?
+## 💬 What am I doing...
 - JavaScript/TypeScript
 - Frontend development (React, Angular, ...)
 - Backend development (Express, NestJS, ...)
 - Interested in DevOps topics
 - Always curious to try out new frameworks, technologies, etc.
+
+## 🌱 I’m currently learning...
+- Swift
+- SwiftUI/UIKit
+- Apple's Ecosystem
 
 ## 📅 In my spare time...
 - Programming
