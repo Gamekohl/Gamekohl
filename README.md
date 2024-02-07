@@ -18,8 +18,7 @@
 - Programming
 - Meeting friends
 - Watching vast amount of series
-- Playing videogames
-- Playing guitar (maybe my favorite activity)
+- Playing e-guitar
 
 <!--
 **Gamekohl/gamekohl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
